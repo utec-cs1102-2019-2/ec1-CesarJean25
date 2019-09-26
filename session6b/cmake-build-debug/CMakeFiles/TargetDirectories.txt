@@ -1,0 +1,5 @@
+D:/POO/22/29/08/session6b/cmake-build-debug/CMakeFiles/session6b2.dir
+D:/POO/22/29/08/session6b/cmake-build-debug/CMakeFiles/session6b.dir
+D:/POO/22/29/08/session6b/cmake-build-debug/CMakeFiles/session6b1.dir
+D:/POO/22/29/08/session6b/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/POO/22/29/08/session6b/cmake-build-debug/CMakeFiles/rebuild_cache.dir
